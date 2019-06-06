@@ -6,7 +6,3 @@ directory: Media examples
 priority: 0
 ---
 Where does this image end up.
-
-
-
-![Image title](/assets/24232256_10155635492414457_1380510062791288801_n.jpg)
