@@ -7,4 +7,4 @@ priority: 0
 ---
 Where does this image end up.
 
-![](/assets/screenshot-2019-06-06-at-15.48.20.png)
+![Alt Text 1](/assets/screenshot-2019-06-06-at-15.48.20.png)
