@@ -7,6 +7,14 @@ priority: 1
 tags:
   - x
 ---
+
+
 Will create the article later okay
 
-Link to /image-article
+Link to
+
+[/image-article](/image-article)
+
+[/image-article](/image-article)
+
+![test](/assets/screenshot-2019-06-06-at-15.48.20.png "test")
