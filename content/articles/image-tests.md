@@ -1,5 +1,5 @@
 ---
-title: Image tests
+title: Image testsi
 date: 2019-05-29T10:15:49.774Z
 description: A list of images showing how we embed them.
 directory: Media examples
