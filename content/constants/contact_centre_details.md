@@ -1,5 +1,5 @@
 ---
-contact_centre_wait_time: 11111111
-contact_centre_number: 07727298063
+contact_centre_wait_time: 0
+contact_centre_number: 0123456789
 ---
 
