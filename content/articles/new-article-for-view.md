@@ -7,6 +7,6 @@ priority: 0
 ---
 [sgasfsfssg](/new-article-for-view)
 
-[asdoksdas](/case-to-test//new-article-for-view)
+[asdoksdas](/case-to-test)
 
 [aoksd;lskd](/new-article-for-view/case-to-test)
