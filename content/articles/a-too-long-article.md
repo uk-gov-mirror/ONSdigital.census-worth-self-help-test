@@ -1,23 +1,6 @@
 ---
-title: >-
-  A Too Long Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................A Too Long
-  Article.............................................
-date: 2019-05-29T10:08:38.444Z
+title: a too long article
+date: 2019-06-04T13:06:38.444Z
 description: Is it possible to create an article that we need to truncate
 directory: Bad Articles
 priority: 1
