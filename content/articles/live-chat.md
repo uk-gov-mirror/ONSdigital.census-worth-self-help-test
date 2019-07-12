@@ -5,6 +5,6 @@ description: chat
 directory: Bad Articles
 priority: 0
 tags:
-  - webchat
+  - webcha
 ---
 live
