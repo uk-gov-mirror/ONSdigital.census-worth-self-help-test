@@ -5,7 +5,7 @@ description: test
 directory: Bad Articles
 priority: 1
 tags:
-  - webchat
+  - ''
 ---
 <audio controls data-id="horse.mp3"><source src="{{TARGET_ASSETS_SRC}}/audio/horse.mp3">Video disabled</audio>
 
