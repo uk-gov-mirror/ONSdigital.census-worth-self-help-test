@@ -5,4 +5,4 @@ description: service worker
 directory: Basic Articles
 priority: 0
 ---
-new content
+super new content really (lacks imagination)
