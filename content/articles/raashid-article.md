@@ -5,4 +5,4 @@ description: service worker
 directory: Basic Articles
 priority: 0
 ---
-Testing cache busting
+new content
