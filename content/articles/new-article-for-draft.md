@@ -5,6 +5,6 @@ description: draft
 directory: Text Only
 priority: 0
 tags:
-  - draft
+  - ''
 ---
 draft
