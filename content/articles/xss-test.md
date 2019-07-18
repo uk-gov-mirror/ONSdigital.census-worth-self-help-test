@@ -96,9 +96,11 @@ tags:
 
 <a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(1)></a>">
 
-<!--\[if]><script>javascript:alert(1)</script -->
+# [akjdka](foo.bar)
 
-<!--\[if<img src=x onerror=javascript:alert(1)//]> -->
+<!--\\[if]><script>javascript:alert(1)</script -->
+
+<!--\\[if<img src=x onerror=javascript:alert(1)//]> -->
 
 <IMG LOWSRC="javascript:javascript:alert(1)">
 
