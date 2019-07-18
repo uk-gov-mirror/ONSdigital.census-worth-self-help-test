@@ -1,11 +1,11 @@
 ---
-title: a too long article 232
+title: a too long article ONS-232
 date: 2019-06-04T13:06:38.444Z
 description: Is it possible to create an article that we need to truncate
 directory: Bad Articles
 priority: 1
 tags:
-  - draft
+  - test
 ---
 Will create the article later okay hello23354567
 
