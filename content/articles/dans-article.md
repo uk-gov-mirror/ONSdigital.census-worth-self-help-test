@@ -2,7 +2,7 @@
 title: Dan's Article
 date: 2019-07-18T10:39:24.197Z
 description: This is a Test
-directory: Basic Articles
+directory: Good Articles
 priority: 1e+61
 tags:
   - Draft
