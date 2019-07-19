@@ -6,6 +6,8 @@ directory: Bad Articles
 priority: 1
 tags:
   - draft
+  - webchat
+  - popular
 ---
 Will create the article later okay hello23354567
 
