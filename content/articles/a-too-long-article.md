@@ -5,7 +5,7 @@ description: Is it possible to create an article that we need to truncate
 directory: Bad Articles
 priority: 1
 tags:
-  - abcde
+  - draft
 ---
 Will create the article later okay hello23354567
 
