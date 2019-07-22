@@ -9,6 +9,4 @@ tags:
 ---
 Testing Testing Testing 1 2 3
 
-
-
-I am inevitable.
+I am inevitable!
