@@ -1,8 +1,8 @@
 ---
 title: xss'<p onmouseover='alert("XSS1")'>xss
-date: 2019-07-22T10:21:37.373Z
-description: xss'<p onmouseover='alert("XSS")'>xss
+date: 2019-07-22T10:21:00.000Z
+description: ' <svg 1=""onload=alert(9)>'
 directory: Format Tests
 priority: 0
 ---
-xss'<p onmouseover='alert("XSS")'>xss
+<svg 1=""onload=alert(99)>
