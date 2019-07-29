@@ -5,4 +5,6 @@ description: Another New Article
 directory: Test Directory
 priority: 0
 ---
+![](/assets/city.jpg)
+
 Another New Article
