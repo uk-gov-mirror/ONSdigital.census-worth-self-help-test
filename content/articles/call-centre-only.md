@@ -5,10 +5,11 @@ description: Call Centre Only
 directory: Good Articles
 priority: 0
 contentsource: >-
-  hhttp://localhost:8000/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/
+  http://localhost:8000/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/
 optimisedby: My Name
 departments:
   - CFODS
 draftreason: Ready for production
+cconly: true
 ---
 Call Centre Only
