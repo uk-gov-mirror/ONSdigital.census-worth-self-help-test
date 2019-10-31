@@ -8,10 +8,11 @@ tags:
   - draft
   - webchat
   - popular
+contentsource: >-
+  http://localhost:8000/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/directory/
 departments:
   - CFODS
   - Logistics
-draftreason: Ready for production
 ---
 Will create the article later okay hello23354567 - Set as a draft!
 
