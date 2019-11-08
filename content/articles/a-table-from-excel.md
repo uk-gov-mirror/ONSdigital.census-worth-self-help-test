@@ -36,9 +36,9 @@ Header row 1 column 2</th>
 
 <td> this is a very long string let's see what happens when I try to make it very very long. this is a very long string let's see what happens when I try to make it very very long.</td>
 
-<td> row 1 column 2</td>
+<td>  this is a very long string let's see what happens when I try to make it very very long. this is a very long string let's see what happens when I try to make it very very long.</td>
 
-<td> row 1 column 3</td>
+<td>  this is a very long string let's see what happens when I try to make it very very long. this is a very long string let's see what happens when I try to make it very very long.</td>
 
 </tr>
 
