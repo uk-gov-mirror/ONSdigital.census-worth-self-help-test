@@ -23,7 +23,7 @@ signedby: agdadsf
 
 <tr>			
 
-<th>Header Column 1</th>	<th>Header Column 2</th>	<th>Header Column 3</th>	<th>Header Column 4</th>
+<th>England; CCS Area Operations Support                                     Initial Field-kit</th>			
 
 </tr>			
 
@@ -33,7 +33,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 1 Column 1</td>	<td>Row 1 Column 2</td>	<td>Row 1 Column 3</td>	<td>Row 1 Column 4</td>
+<td>CB</td>	<td>Carrying Bag</td>	<td>1</td>	
 
 </tr>			
 
@@ -43,7 +43,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 2 Column 1</td>	<td>Row 2 Column 2</td>	<td>Row 2 Column 3</td>	<td>Row 2 Column 4</td>
+<td>VL</td>	<td>Hi Vis Vests - Large</td>	<td>1</td>	
 
 </tr>			
 
@@ -53,7 +53,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 3 Column 1</td>	<td>Row 3 Column 2</td>	<td>Row 3 Column 3</td>	<td>Row 3 Column 4</td>
+<td>PA</td>		<td>1</td>	
 
 </tr>			
 
@@ -63,7 +63,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 4 Column 1</td>	<td>Row 4 Column 2</td>	<td>Row 4 Column 3</td>	<td>Row 4 Column 4</td>
+<td>PP</td>	<td>Posting peg (finger)</td>	<td>1</td>	
 
 </tr>			
 
@@ -73,7 +73,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 5 Column 1</td>	<td>Row 5 Column 2</td>	<td>Row 5 Column 3</td>	<td>Row 5 Column 4</td>
+<td>LYDB</td>	<td>Lanyard            (England & Wales)</td>	<td>1</td>	
 
 </tr>			
 
@@ -83,7 +83,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 6 Column 1</td>	<td>Row 6 Column 2</td>	<td>Row 6 Column 3</td>	<td>Row 6 Column 4</td>
+<td>CRBH</td>	<td>Clear Rigid Badge Holder</td>	<td>1</td>	
 
 </tr>			
 
@@ -93,7 +93,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 7 Column 1</td>	<td>Row 7 Column 2</td>	<td>Row 7 Column 3</td>	<td>Row 7 Column 4</td>
+<td>BLC01</td>	<td>Bag Label (English only)</td>	<td>1</td>	
 
 </tr>			
 
@@ -103,7 +103,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 8 Column 1</td>	<td>Row 8 Column 2</td>	<td>Row 8 Column 3</td>	<td>Row 8 Column 4</td>
+<td>BI1</td>	<td>Bag insert</td>	<td>1</td>	
 
 </tr>			
 
@@ -113,7 +113,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 9 Column 1</td>	<td>Row 9 Column 2</td>	<td>Row 9 Column 3</td>	<td>Row 9 Column 4</td>
+<td>CCR1</td>	<td>Specific letter for people who are reluctant to participate/refuse  (English)</td>	<td>1</td>	
 
 </tr>			
 
@@ -123,7 +123,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 10 Column 1</td>	<td>Row 10 Column 2</td>	<td>Row 10 Column 3</td>	<td>Row 10 Column 4</td>
+<td>CSIMA1 </td>	<td>Sorry I missed you card (A) Wave of Contact - England (English)</td>	<td>1</td>	
 
 </tr>			
 
@@ -133,7 +133,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 11 Column 1</td>	<td>Row 11 Column 2</td>	<td>Row 11 Column 3</td>	<td>Row 11 Column 4</td>
+<td>CAC1 </td>	<td>Census Coverage Survey  Advance Card (English)</td>	<td>1</td>	
 
 </tr>			
 
@@ -143,7 +143,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 12 Column 1</td>	<td>Row 12 Column 2</td>	<td>Row 12 Column 3</td>	<td>Row 12 Column 4</td>
+<td>CSH1 </td>	<td>Show Card (includes Encapsulated)  (English)</td>	<td>1</td>	
 
 </tr>			
 
@@ -153,7 +153,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 13 Column 1</td>	<td>Row 13 Column 2</td>	<td>Row 13 Column 3</td>	<td>Row 13 Column 4</td>
+<td>CSHC1</td>	<td>Communal Establishment Show Cards (English)</td>		
 
 </tr>			
 
@@ -163,7 +163,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 14 Column 1</td>	<td>Row 14 Column 2</td>	<td>Row 14 Column 3</td>	<td>Row 14 Column 4</td>
+<td>CMS1</td>	<td>CCS Multilingual showcard/language identification card - for England and Wales (multilingual)</td>	<td>1</td>	
 
 </tr>			
 
@@ -173,7 +173,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 15 Column 1</td>	<td>Row 15 Column 2</td>	<td>Row 15 Column 3</td>	<td>Row 15 Column 4</td>
+<td>PAC</td>	<td>Printer and cable</td>	<td>1</td>	
 
 </tr>			
 
@@ -183,7 +183,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 16 Column 1</td>	<td>Row 16 Column 2</td>	<td>Row 16 Column 3</td>	<td>Row 16 Column 4</td>
+<td>RP</td>	<td>Ream of paper</td>	<td>1</td>	
 
 </tr>			
 
@@ -193,27 +193,7 @@ signedby: agdadsf
 
 <tr>			
 
-<td>Row 17 Column 1</td>	<td>Row 17 Column 2</td>	<td>Row 17 Column 3</td>	<td>Row 17 Column 4</td>
-
-</tr>			
-
-			
-
-<!-- Row 18 -->			
-
-<tr>			
-
-<td>Row 18 Column 1</td>	<td>Row 18 Column 2</td>	<td>Row 18 Column 3</td>	<td>Row 18 Column 4</td>
-
-</tr>			
-
-			
-
-<!-- Row 19 -->			
-
-<tr>			
-
-<td>Row 19 Column 1</td>	<td>Row 19 Column 2</td>	<td>Row 19 Column 3</td>	<td>Row 19 Column 4</td>
+<td></td>	<td>CCS interviewer (field handbook) - Pocket  Guide for England and Wales (English)</td>	<td>1</td>	
 
 </tr>			
 
