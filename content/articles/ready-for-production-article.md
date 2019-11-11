@@ -9,7 +9,6 @@ contentsource: >-
 date: 2019-11-01T09:14:56.357Z
 title: Ready for Production Article
 description: Ready for Production Article
-role: test
 directory: Good Articles
 priority: 0
 author: test

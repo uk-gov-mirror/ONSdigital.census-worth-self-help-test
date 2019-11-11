@@ -8,7 +8,6 @@ contentsource: >-
 date: 2019-11-06T21:04:18.291Z
 title: ONS-366 2nd Test Article
 description: ONS-366 2nd Test Article
-role: ONS-366 2nd Test Article
 directory: Good Articles
 priority: 0
 tags:
