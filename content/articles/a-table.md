@@ -8,7 +8,7 @@ contentsource: >-
 date: 2019-11-06T21:56:06.601Z
 title: A table
 description: A table
-role: 
+roles: 
   - My Role
 directory: Good Articles
 priority: 0
