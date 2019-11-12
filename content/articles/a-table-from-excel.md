@@ -3,16 +3,20 @@ cconly: false
 draftreason: Ready for Live Site
 departments:
   - Logistics
+  - erpowekrpoke
+  - 'Training '
 contentsource: >-
   kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 date: 2019-11-07T16:29:27.645Z
 title: A table from excel
 description: auto from my excel "tool"
+role:
+  - My Role
 directory: Format Tests
 priority: 0
 author: sdfasdf
 reviewedby: yhdfgh
-optimisedby: Angeliki Zafeiropoulou - ONS
+optimisedby: Carol Danvers - Marvel
 signedby: serysujsrth
 ---
 <table>
