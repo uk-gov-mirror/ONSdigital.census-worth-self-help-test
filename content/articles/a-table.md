@@ -8,8 +8,9 @@ contentsource: >-
 date: 2019-11-06T21:56:06.601Z
 title: A table
 description: A table
+role: Old Single Value
 roles: 
-  - My Role
+  - A Role
 directory: Good Articles
 priority: 0
 tags:
