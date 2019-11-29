@@ -8,8 +8,8 @@ contentsource: >-
 date: 2019-11-11T12:26:11.559Z
 title: From real table
 description: Logistics table
-role:
-  - My Role
+roles:
+  - A Role
 directory: Basic Articles
 priority: 0
 author: asdfasdf
