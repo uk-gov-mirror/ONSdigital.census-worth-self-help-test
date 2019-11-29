@@ -8,8 +8,6 @@ contentsource: >-
 date: 2019-11-08T11:34:30.605Z
 title: 'From real table, improved excel'
 description: see what happens to empty cells
-role:
-  - My Role
 roles:
   - A Role
 directory: Format Tests
@@ -19,6 +17,8 @@ reviewedby: sagadfga
 optimisedby: Angeliki Zafeiropoulou - ONS
 signedby: agdadsf
 ---
+.
+
 <table>			
 
 <!-- Header Row -->			
@@ -29,8 +29,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 1 -->			
 
 <tr>			
@@ -38,8 +36,6 @@ signedby: agdadsf
 <td>CB</td>	<td>Carrying Bag</td>	<td>1</td>	
 
 </tr>			
-
-			
 
 <!-- Row 2 -->			
 
@@ -49,8 +45,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 3 -->			
 
 <tr>			
@@ -58,8 +52,6 @@ signedby: agdadsf
 <td>PA</td>		<td>1</td>	
 
 </tr>			
-
-			
 
 <!-- Row 4 -->			
 
@@ -69,8 +61,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 5 -->			
 
 <tr>			
@@ -78,8 +68,6 @@ signedby: agdadsf
 <td>LYDB</td>	<td>Lanyard            (England & Wales)</td>	<td>1</td>	
 
 </tr>			
-
-			
 
 <!-- Row 6 -->			
 
@@ -89,8 +77,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 7 -->			
 
 <tr>			
@@ -98,8 +84,6 @@ signedby: agdadsf
 <td>BLC01</td>	<td>Bag Label (English only)</td>	<td>1</td>	
 
 </tr>			
-
-			
 
 <!-- Row 8 -->			
 
@@ -109,8 +93,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 9 -->			
 
 <tr>			
@@ -118,8 +100,6 @@ signedby: agdadsf
 <td>CCR1</td>	<td>Specific letter for people who are reluctant to participate/refuse  (English)</td>	<td>1</td>	
 
 </tr>			
-
-			
 
 <!-- Row 10 -->			
 
@@ -129,8 +109,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 11 -->			
 
 <tr>			
@@ -138,8 +116,6 @@ signedby: agdadsf
 <td>CAC1 </td>	<td>Census Coverage Survey  Advance Card (English)</td>	<td>1</td>	
 
 </tr>			
-
-			
 
 <!-- Row 12 -->			
 
@@ -149,8 +125,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 13 -->			
 
 <tr>			
@@ -158,8 +132,6 @@ signedby: agdadsf
 <td>CSHC1</td>	<td>Communal Establishment Show Cards (English)</td>		
 
 </tr>			
-
-			
 
 <!-- Row 14 -->			
 
@@ -169,8 +141,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 15 -->			
 
 <tr>			
@@ -179,8 +149,6 @@ signedby: agdadsf
 
 </tr>			
 
-			
-
 <!-- Row 16 -->			
 
 <tr>			
@@ -188,8 +156,6 @@ signedby: agdadsf
 <td>RP</td>	<td>Ream of paper</td>	<td>1</td>	
 
 </tr>			
-
-			
 
 <!-- Row 17 -->			
 
