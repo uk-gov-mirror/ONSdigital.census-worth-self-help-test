@@ -8,8 +8,7 @@ contentsource: >-
 date: 2019-11-06T21:56:06.601Z
 title: A table
 description: A table
-role: Old Single Value
-roles: 
+roles:
   - A Role
 directory: Good Articles
 priority: 0
@@ -27,3 +26,5 @@ This is a table...
 <tr><td>A</td><td>B</td><td>C</td></tr>
 <tr><td>A</td><td>B01234</td><td>C</td></tr>
 </table>
+
+...
