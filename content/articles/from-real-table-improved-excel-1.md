@@ -10,6 +10,8 @@ title: 'From real table, improved excel'
 description: see what happens to empty cells
 role:
   - My Role
+roles:
+  - A Role
 directory: Format Tests
 priority: 0
 author: adfa
