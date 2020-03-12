@@ -16,7 +16,7 @@ roles:
 directory: deep 2
 priority: 0
 tags:
-  - ''
+  - draft
 author: Me
 reviewedby: Henry
 optimisedby: Jessica Jones
