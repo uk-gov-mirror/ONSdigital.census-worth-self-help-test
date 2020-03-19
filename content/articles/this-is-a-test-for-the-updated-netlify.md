@@ -20,3 +20,5 @@ signedby: why not
 <script>blahlaidnaodnaoiwndoandwad</script>
 
 testing testing one two three
+
+![tulips](assets/tulips.jpg "tulips")
