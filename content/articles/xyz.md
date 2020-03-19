@@ -1,6 +1,6 @@
 ---
 cconly: false
-draftreason: To be published on a specific date
+draftreason: Ready for Live Site
 departments:
   - CFODS
   - erpowekrpoke
@@ -11,7 +11,7 @@ title: xyz
 description: hello
 roles:
   - A Role
-directory: deep 3
+directory: deep 5
 priority: 0
 author: me
 reviewedby: you
