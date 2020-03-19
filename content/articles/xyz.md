@@ -11,7 +11,7 @@ title: xyz
 description: hello
 roles:
   - A Role
-directory: deep 5
+directory: deep 3
 priority: 0
 author: me
 reviewedby: you
