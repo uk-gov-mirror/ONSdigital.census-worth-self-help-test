@@ -20,4 +20,4 @@ qweqwed
 
 
 
-![](assets/city.jpg)
+![](/assets/city.jpg)
