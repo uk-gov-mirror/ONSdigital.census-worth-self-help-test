@@ -1,14 +1,23 @@
 ---
+draftreason: Ready for Live Site
+departments:
+  - CFODS
+contentsource: >-
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+date: 2020-04-29T11:06:16.909Z
 title: A very simple article
-date: 2019-05-29T09:38:55.047Z
 description: a simple article for demo purpose
+roles:
+  - A Role
 directory: Good Articles
 priority: 0
-author: Nathan
 tags:
   - good
   - basic
   - webchat
+author: Nathan
+optimisedby: Jessica Jones
+signedby: 'yes'
 ---
 Hello world
 
