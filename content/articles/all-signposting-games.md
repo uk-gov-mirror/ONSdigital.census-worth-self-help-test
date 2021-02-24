@@ -6,7 +6,7 @@ departments:
 contentsource: "The SharePoint link to this article is currently unavailable. To
   discuss the content of this article, please contact Stephanie Tubbs or Rachel
   Orr. Thank you. "
-date: 2021-02-23T13:05:37.773Z
+date: 2021-02-24T15:07:53.457Z
 title: All signposting games
 description: "This article will give you a list of all the games that are
   available to you. "
@@ -18,7 +18,7 @@ author: Steph Tubbs
 optimisedby: Steph Tubbs - ONS
 signedby: Steph Tubbs
 ---
-### [Game 1 - Robert Beck](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame8/story.html)
+### [Game 1 - Robert Beck](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame1/story.html)
 
 **Respondent is hearing impaired.** 
 
@@ -26,7 +26,7 @@ Help Robert, who is hearing impaired, understand more about the Census and the v
 
 Theme: Accessibility
 
-### Game 2 - Louise Hamer
+### [Game 2 - Louise Hamer](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame2/story.html)
 
 **Respondent does not understand a specific question.**
 
@@ -34,7 +34,7 @@ Help Louise understand a specific question she is having difficulty with.
 
 Theme: Other
 
-### Game 3 - Karim Abdul Bakhar
+### [Game 3 - Karim Abdul Bakhar](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame3/story.html)
 
 **Respondent is fluent in a non-English language.** 
 
@@ -42,7 +42,7 @@ Help Karim complete the Census in his preferred language.
 
 Theme: Accessibility
 
-### Game 4 - Marie Daley
+### [Game 4 - Marie Daley](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame4/story.html)
 
 **Respondent is a member of the older population.** 
 
@@ -50,7 +50,7 @@ Help Marie, an older person who doesn't have access to the internet or a compute
 
 Theme: Accessibility
 
-### Game 5 - Mitchell Wong
+### [Game 5 - Mitchell Wong](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame5/story.html)
 
 **Respondent is visually impaired.** 
 
@@ -58,7 +58,7 @@ Help Mitchell, who is visually impaired, complete the Census using accessible re
 
 Theme: Accessibility 
 
-### Game 6 - Sophie Burton
+### [Game 6 - Sophie Burton](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame6/story.html)
 
 **Respondent is supported by a young carer.**
 
