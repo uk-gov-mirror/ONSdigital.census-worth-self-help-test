@@ -13,6 +13,14 @@ roles:
   - My Role
 directory: "Signposting testing "
 priority: 0
+tags:
+  - accessibility
+  - games
+  - accommodation
+  - challenges
+  - life
+  - style
+  - lifestyle
 author: Steph Tubbs
 optimisedby: Carol Danvers - Marvel
 signedby: Still in Draft
