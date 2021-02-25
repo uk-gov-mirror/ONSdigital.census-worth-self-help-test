@@ -6,7 +6,7 @@ departments:
 contentsource: "The SharePoint link to this article is currently unavailable. To
   discuss the content of this article, please contact Stephanie Tubbs or Rachel
   Orr. Thank you. "
-date: 2021-02-24T15:07:53.457Z
+date: 2021-02-25T12:43:37.016Z
 title: All signposting games
 description: "This article will give you a list of all the games that are
   available to you. "
@@ -66,13 +66,13 @@ Help Sophie, a young carer, assist her parent with Census completion.
 
 Theme: Lifestyle
 
-### Game 7 - Amira Khan
+### [Game 7 - Amira Khan](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame7/story.html)
 
 **Respondent has a hectic lifestyle.**
 
 Help Amira, who has a busy schedule and hectic lifestyle, complete the Census in a way that is convenient to her. 
 
-### Game 8 - Maya Hernandez
+### [Game 8 - Maya Hernandez](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame8/story.html)
 
 **Respondent lives in a house of multiple occupancy (HMO).** 
 
@@ -80,7 +80,7 @@ Help Maya, and the people she shares a house with, complete the Census.
 
 Theme: Accommodation 
 
-### Game 9 - DeShaun Williams
+### [Game 9 - DeShaun Williams](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame9/story.html)
 
 **Respondent is anxious.** 
 
@@ -88,19 +88,19 @@ Help DeShaun, who is anxious to engage with you, complete the Census.
 
 Theme: Lifestyle 
 
-### Game 10 - Liz Freeman
+### [Game 10 - Liz Freeman](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame10/story.html)
 
 **Respondent has been scammed.** 
 
 Help Liz, who has been defrauded by an illegitimate Field officer, complete the Census. 
 
-### Game 11 - Emily Oematsu
+### [Game 11 - Emily Oematsu](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame11/story.html)
 
 **Respondent is a night-shift worker.** 
 
 Help Emily, who has an irregular working pattern, complete the Census. 
 
-### Game 12 - Kwame Adebola
+### [Game 12 - Kwame Adebola](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame12/story.html)
 
 **Respondent lives in a property displaying a "sold" sign.** 
 
