@@ -14,6 +14,15 @@ roles:
   - My Role
 directory: "Signposting testing "
 priority: 0
+tags:
+  - accessibility
+  - games
+  - accommodation
+  - challenges
+  - life
+  - style
+  - lifestyle
+  - ""
 author: Steph Tubbs
 optimisedby: Steph Tubbs - ONS
 signedby: Steph Tubbs
