@@ -117,7 +117,7 @@ Help Kwame, who has recently moved house, complete the Census.
 
 Theme: Accommodation 
 
-### Game 13 - Jane Goodman
+### [Game 13 - Jane Goodman](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame13/story.html)
 
 **Respondent lives in a sheltered housing complex.** 
 
@@ -125,7 +125,7 @@ Help Jane, the warden at a sheltered housing complex, understand how she can sup
 
 Theme: Accommodation 
 
-### Game 14 - Alberto Bertolo
+### [Game 14 - Alberto Bertolo](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame14/story.html)
 
 **Respondent is away and the property has a house-sitter.** 
 
@@ -133,7 +133,7 @@ Help Alberto, who is house-sitting a property, support the householder with Cens
 
 Theme: Accommodation 
 
-### Game 15 - Kwan Lee
+### [Game 15 - Kwan Lee](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame15/story.html)
 
 **Property is being renovated and is a second home.** 
 
@@ -141,7 +141,7 @@ Help Kwan, who is renovating a property, support the householder with Census com
 
 Theme: Accommodation
 
-### Game 16 - Brandon Jackson
+### [Game 16 - Brandon Jackson](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame16/story.html)
 
 **Respondent needs individual support to complete the Census.** 
 
@@ -149,19 +149,19 @@ Help Brandon, who may need help to complete his Census return, get the help and 
 
 Theme: Accessibility 
 
-### Game 17 - Shanice Turner
+### [Game 17 - Shanice Turner](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame17/story.html)
 
 **Respondent claims to have already completed the Census.**
 
 Help Shanice, who claims she has already completed the Census, understand why her response may not have been received and the actions she needs to take.
 
-### Game 18 - Chris Patterson
+### [Game 18 - Chris Patterson](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame18/story.html)
 
 **Respondent criticises government.** 
 
 Help Chris, who is critical of the government, understand the importance of the Census and encourage him to complete his return.
 
-### Game 19 - Alvin Komamura
+### [Game 19 - Alvin Komamura](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame19/story.html)
 
 **Respondent is shielding/self-isolating due to Covid-19.** 
 
