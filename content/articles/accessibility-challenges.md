@@ -57,10 +57,10 @@ Help Marie, an older person who doesn't have access to the internet or a compute
 
 Help Mitchell, who is visually impaired, complete the Census using accessible resources. 
 
-### Game 16
+### [Game 16](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame16/story.html)
 
 ![](/assets/brandon-16-reupload.png)
 
-**Respondent needs individual support to complete the Census.**
+[**Respondent needs individual support to complete the Census.**](https://signpost.census.selfhelp.onsdigital.uk/SignpostingGame16/story.html)
 
 Help Brandon, who may need help to complete his Census return, get the help and resources he needs.
