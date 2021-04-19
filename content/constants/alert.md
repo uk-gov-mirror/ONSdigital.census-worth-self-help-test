@@ -16,6 +16,15 @@ alert_title: "Alert "
 
 
 <https://signpost.census.selfhelp.onsdigital.uk/CCSSignpostingGame6/story.html>
+
+<https://signpost.census.selfhelp.onsdigital.uk/CCSSignpostingGame7/story.html>
+
+
+<https://signpost.census.selfhelp.onsdigital.uk/CCSSignpostingGame8/story.html>
+
+
+<https://signpost.census.selfhelp.onsdigital.uk/CCSSignpostingGame9/story.html>
+
  
  
 
