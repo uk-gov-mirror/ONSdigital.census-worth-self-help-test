@@ -32,3 +32,9 @@ signedby: Still in Draft
 
 ### [Game 6](https://signpost.census.selfhelp.onsdigital.uk/CCSSignpostingGame6/story.html)
 
+### [Game 7](https://signpost.census.selfhelp.onsdigital.uk/CCSSignpostingGame7/story.html)
+
+
+### [Game 8](https://signpost.census.selfhelp.onsdigital.uk/CCSSignpostingGame8/story.html)
+
+### [Game 9](https://signpost.census.selfhelp.onsdigital.uk/CCSSignpostingGame9/story.html)
